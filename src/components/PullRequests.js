@@ -7,7 +7,7 @@ const PullRequests = (props) => {
 	return (
 		<>
 			<div className='pull-request'>
-				<h2>All Pull Requests</h2>
+				<h2>All Pull Requests (PRs)</h2>
 				{PRs.map((pr) => {
 					return (
 						<>
