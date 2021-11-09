@@ -1,0 +1,14 @@
+.pull-request {
+	margin-bottom: 5px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pull-request-status {
+}
+.open {
+	background-color: #388e3c;
+}
+.closed {
+	background-color: #f57c00;
+}
